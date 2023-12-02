@@ -1,5 +1,6 @@
 # metodo-de-thomas
-Apliación movil para la Métodos Numéricos
+Aplicación móvil para el método o algoritmo de Thomas. 
+Para la materia Métodos Numéricos.
 
 <div align="center" style="display:flex; flex-direction:row; flex-wrap:wrap; justify-content:center;align-items: center">
     <img src="https://github.com/LuiSauter/metodo-de-thomas/assets/88288135/d03d21b6-d291-450a-8c14-4bd912224bbd" width="230" />    
