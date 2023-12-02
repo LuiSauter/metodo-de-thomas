@@ -7,6 +7,7 @@ Integrantes del grupo:
 - Jaime Junior Roca Casanova
 - Juan Daniel Ramos Prada
 - Jairo Vargas Figueroa
+## Demo de la app
 
 <div align="center" style="display:flex; flex-direction:row; flex-wrap:wrap; justify-content:center;align-items: center">
     <img src="https://github.com/LuiSauter/metodo-de-thomas/assets/88288135/d03d21b6-d291-450a-8c14-4bd912224bbd" width="230" />    
